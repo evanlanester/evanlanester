@@ -1,6 +1,6 @@
 ### Hello there 👋
 ## I'm Evan Lane and Welcome to my GitHub Profile.
-#### I am currently an IT Manager by Day 🌇 and a Hobbyist by Night 🌃.
+#### I am currently looking for work!
 
 You can find out more about me and ways to reach me by visiting my website: [evanlane.me](https://evanlane.me)
 
@@ -15,6 +15,7 @@ You can find out more about me and ways to reach me by visiting my website: [eva
 ---
 
 ### My previous work experience is but not limited to: 
+- IT Manager
 - System Administraion,
 - Network Administrator,
 - Database Administrator,
