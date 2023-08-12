@@ -19,7 +19,8 @@ You can find out more about me and ways to reach me by visiting my website: [eva
 - System Administraion,
 - Network Administrator,
 - Database Administrator,
-- Security Analyst and Consultant, and
+- Security Analyst,
+- Consultant, and
 - Monitoring Administrator.
 
 I have helped work to setup Security Operation Centres (SoC) and Network Opeartion Centres (NoC) for organisations, and have experience in FinTech, HealthCare and Manufacturing.
@@ -29,10 +30,10 @@ I have helped work to setup Security Operation Centres (SoC) and Network Opearti
 ## Languages and Technologies I work with:
 | Languages | Technologies | Software |
 | --------- | -----------  | -------- |
-|<ul>PowerShell<li>Desktop, and</li> <li>Core</li> </ul> |   <ul>Virtualisation<li>Hyper-V,</li><li>VMWare ESXi,</li><li>Proxmox, and</li><li>XenServer</li></ul> | <ul>Microsoft 365 / Azure</ul> |
-| <ul>JavaScript:<li>JQuery,</li><li>Ajax,</li><li>NodeJS</li></ul> | <ul>Containerisation:<li>LXC,</li><li>Docker (Swarms)</li></ul> | <ul>Atlassian Stack </ul> |
-| <ul>PHP</ul> | <ul>Infrastructure as Code:<li>I had been doing this with Shell and PowerShell for years. ¯\\\_(ツ)_\_/¯</li><li>Ansible</li><li>Terraform</li></ul> | <ul>Google Workplace</ul>
-| <ul> HTML5/CSS </ul> | <ul> Databases: <li>MsSQL</li><li>MySQL / MariaDB</li><li>OracleDB</li><li>SQLite</li> | <ul>  </ul>
+|<ul><li>PowerShell</li><li>Desktop, and</li><li>Core</li></ul> | <ul><li>Virtualisation</li><li>Hyper-V,</li><li>VMWare ESXi,</li><li>Proxmox, and</li><li>XenServer</li></ul> | <ul><li>Microsoft 365 / Azure</li></ul> |
+| <ul><li>JavaScript:</li><li>JQuery,</li><li>Ajax,</li><li>NodeJS</li></ul> | <ul><li>Containerisation:</li><li>LXC,</li><li>Docker (Swarms)</li></ul> | <ul><li>Atlassian Stack</li></ul> |
+| <ul><li>PHP</li></ul> | <ul><li>Infrastructure as Code:</li><li>I had been doing this with Shell and PowerShell for years. ¯\\\_(ツ)_\_/¯</li><li>Ansible</li><li>Terraform</li></ul> | <ul><li>Google Workplace</li></ul>
+| <ul><li>HTML5/CSS</li></ul> | <ul><li>Databases:</li><li>MsSQL</li><li>MySQL / MariaDB</li><li>OracleDB</li><li>SQLite</li> | <ul>  </ul>
 
 ### Other mentionables:
 - BACNet for HVAC, PDU/UPS and Building Management Systems.
