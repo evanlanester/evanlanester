@@ -2,7 +2,7 @@
 ## I'm Evan Lane and Welcome to my GitHub Profile.
 #### I am currently looking for work!
 
-I am a 🇨🇦 IT Professional with over 9 years of experience, I also do work in the Digital Humanities, Graphic Design/Web Development, and Video Production.
+I am a 🇨🇦 IT Professional with over 10 years of experience, I also do work in the Digital Humanities, Graphic Design/Web Development, and Video Production.
 
 You can find out more about me and ways to reach me by visiting my website: https://evanlane.me
 
