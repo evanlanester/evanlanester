@@ -9,7 +9,7 @@ You can find out more about me and ways to reach me by visiting my website: http
 ---
 
 ### My Current Active Projects:
-- [Human Rights Maps](https://evanlane.me/projects/human-rights): My first digital humanities project for my Bachelor of Arts in Applied Communication Leadership and Culture @ UPEI. It details Countries that their Governments have committed violations of the United Nations Human Rights Declaration of 1948 up to the year 2020.
+- [Human Rights Maps](https://evanlane.me/projects/human-rights): My first digital humanities project for my Bachelor of Arts in Applied Communication Leadership and Culture @ UPEI. It details Countries where their Governments have committed violations of the United Nations Human Rights Declaration of 1948 up to the year 2020.
 - [BehindTheDungeons.com](https://behindthedungeons.com): A Blog, Webcast and Podcast on all things Table Top Role Playing Games and Fantasy.
 - [WhyStream.org](https://whystream.org): A Blog about all things Live Streaming, Video Recording and Amateur Production.
 - [TimeForPrivacy.org](https://timeforprivacy.org): A Blog detailing how to retain your privacy online.
@@ -27,20 +27,20 @@ You can find out more about me and ways to reach me by visiting my website: http
 - Consultant, and
 - Monitoring Administrator.
 
-I have helped work to setup Security Operation Centres (SoC) and Network Opeartion Centres (NoC) for organisations, and have experience in FinTech, HealthCare and Manufacturing.
+I have helped work to set up a Security Operation Centre (SoC) and Network Opeartion Centre (NoC) for organisations, and have experience in MSP, NGO/Non-Profits, Government, FinTech, HealthCare and Manufacturing.
 
 ---
 
 ## Programming Languages and Technologies I work with:
-| Languages | Technologies | Software |
+| Languages | Technologies | Software | 
 | --------- | -----------  | -------- |
 | <ul><li>PowerShell</li><li>Python</li><li>PIP</li></ul> | <ul><li>Virtualisation</li><li>Hyper-V,</li><li>VMWare ESXi,</li><li>Proxmox, and</li><li>XenServer</li></ul> | <ul><li>Microsoft 365</li><li>Azure</li></ul> |
 | <ul><li>JavaScript:</li><li>JQuery,</li><li>Ajax,</li><li>NodeJS</li></ul> | <ul><li>LXC,</li><li>Docker</li><li>Kubernetes</li></ul> | <ul><li>Atlassian Stack</li></ul> |
 | <ul><li>PHP</li></ul> | <ul><li>Ansible</li><li>Terraform</li></ul> | <ul><li>Google Workplace</li><li>Google Cloud Platform</li></ul>
 | <ul><li>HTML5/CSS</li></ul> | <ul><li>MsSQL</li><li>MySQL / MariaDB</li><li>OracleDB</li><li>SQLite</li> | <ul>  <li>Oracle Cloud Infrastructure</li></ul>
 
-### Other mentionables:
-- BACNet for HVAC, PDU/UPS and Building Management Systems.
+### Other mentionable:
+- BACnet for HVAC, PDU/UPS and Building Management Systems.
 - PLC and SCADA for Manufacturing.
 - Out of Band and Remote Access Management using technologies like Intel(R) Management Engine, MDM and IPMI-based solutions.
 
