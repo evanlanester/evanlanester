@@ -4,7 +4,7 @@
 
 I am a 🇨🇦 IT Professional with over 10 years of experience, I also do work in the Digital Humanities, Graphic Design/Web Development, and Video Production.
 
-You can find out more about me and ways to reach me by visiting my website: https://evanlane.me
+You can find out more about me and ways to reach me by visiting my website: https://evanlane.ca
 
 ---
 
